@@ -1,1 +1,1 @@
-ml_model_Elon_tweets: forecasting summary Elon's tweets likes for each day. The dataset was downloaded from the Kaggle website: https://www.kaggle.com/datasets/alexhuggler/elon-tweets-wsentimentclassified-via-roberta
+ml_model_Elon_tweets: forecasting summary Elon's tweets likes for each month. The dataset was downloaded from the Kaggle website: https://www.kaggle.com/datasets/alexhuggler/elon-tweets-wsentimentclassified-via-roberta
